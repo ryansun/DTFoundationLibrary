@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DTFoundationLibrary_Tests' do
+  pod 'DTFoundationLibrary', :path => '../'
+  
+  
+end
